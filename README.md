@@ -1,3 +1,3 @@
 ### Домены
-* https://demidko.cf
+* https://demidko.ml
 * https://demidko.github.io
